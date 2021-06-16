@@ -1,0 +1,2 @@
+aiogram==2.13
+yfinance==0.1.59

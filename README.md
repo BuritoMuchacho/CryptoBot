@@ -1,0 +1,3 @@
+# CryptoBot source code
+This is a source code of [CryptoBot](http://t.me/cryptotobot), Telegram bot that notifies and sends cryptocurrencies prices whenever you want. It uses [aiogram](https://github.com/aiogram/aiogram) library and [Yahoo! Finance](https://finance.yahoo.com/) API. This repository includes everything, except real database (empty db included) and `config.py` file with bot's HTTPS API Telegram token.  
+If you need any additional information let me know in [Telegram](t.me/BuritoMuchacho). Feel free to add pull requests improving bot and report any issues.
